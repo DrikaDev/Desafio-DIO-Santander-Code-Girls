@@ -22,7 +22,7 @@ Armazenamento em bloco anexado ao **EC2**, funcionando como um **HD/SSD persiste
 
 ## 📂 Arquitetura Criada
 
-<img width="581" height="566" alt="image" src="https://github.com/user-attachments/assets/00791449-8b39-4b39-b16a-55762d795d92" />
+![Desafio_DIO](https://github.com/user-attachments/assets/1b669a86-58a0-4528-b443-4f7f159ff1ba)
 
 ## 🔗 Fluxo de funcionamento
 
